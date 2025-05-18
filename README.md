@@ -1,3 +1,3 @@
 ## GM
 
-Looking into the Pine Script mastery. LFG
+Looking into the Pine Script mastery. LFG :fire:
